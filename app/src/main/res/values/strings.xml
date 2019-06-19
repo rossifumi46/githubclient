@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">githubclient</string>
+    <string name="error">Something went wrong. Try again.</string>
+    <string name="projects">Projects</string>
+</resources>
